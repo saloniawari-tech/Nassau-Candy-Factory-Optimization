@@ -1,0 +1,121 @@
+Product Name,Region,Current Factory,Scenario Factory,Lead Time Reduction %,Profit Margin %,Profit Impact Stable,Recommendation Score,Risk Level
+Lickable Wallpaper,Atlantic,Secret Factory,Lot's O' Nuts,-7.42,50.0,True,17.072353323613875,Moderate Risk
+Lickable Wallpaper,Atlantic,Secret Factory,Wicked Choccy's,-7.95,50.0,True,33.05496186072314,Moderate Risk
+Lickable Wallpaper,Atlantic,Secret Factory,Sugar Shack,-5.43,50.0,True,27.603254215616303,Moderate Risk
+Lickable Wallpaper,Atlantic,Secret Factory,Secret Factory,-8.41,50.0,True,30.06527197448136,Moderate Risk
+Lickable Wallpaper,Atlantic,Secret Factory,The Other Factory,-9.68,50.0,True,28.98104159633592,Moderate Risk
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,Lot's O' Nuts,-8.86,71.34670487106017,True,16.208353323613878,Moderate Risk
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,Wicked Choccy's,-8.39,71.34670487106017,True,32.790961860723144,Moderate Risk
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,Sugar Shack,-6.64,71.34670487106017,True,26.877254215616304,Moderate Risk
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,Secret Factory,-8.86,71.34670487106017,True,29.79527197448136,Moderate Risk
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,The Other Factory,-10.16,71.34670487106017,True,28.69304159633592,High Risk
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,Lot's O' Nuts,-10.93,65.33333333333333,True,31.72443022457353,High Risk
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,Wicked Choccy's,-11.52,65.33333333333333,True,13.088,High Risk
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,Sugar Shack,-16.65,65.33333333333333,True,18.70961133455334,High Risk
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,Secret Factory,-11.52,65.33333333333333,True,19.925061567448168,High Risk
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,The Other Factory,-11.39,65.33333333333333,True,19.150771350384098,High Risk
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,Lot's O' Nuts,-10.32,64.92307692307693,True,29.527132555551415,High Risk
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,Wicked Choccy's,-10.8,64.92307692307693,True,25.08416700774963,High Risk
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,Sugar Shack,-8.04,64.92307692307693,True,32.23533490513384,Moderate Risk
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,Secret Factory,-9.41,64.92307692307693,True,32.860564014788906,Moderate Risk
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,The Other Factory,-11.64,64.92307692307693,True,30.55560226907556,High Risk
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,Lot's O' Nuts,-11.18,69.44444444444446,True,31.574430224573536,High Risk
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,Wicked Choccy's,-11.54,69.44444444444446,True,13.076,High Risk
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,Sugar Shack,-16.68,69.44444444444446,True,18.69161133455334,High Risk
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,Secret Factory,-11.54,69.44444444444446,True,19.913061567448167,High Risk
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,The Other Factory,-11.41,69.44444444444446,True,19.138771350384097,High Risk
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,Lot's O' Nuts,-10.42,69.44444444444444,True,29.467132555551423,High Risk
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,Wicked Choccy's,-10.9,69.44444444444444,True,25.024167007749632,High Risk
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,Sugar Shack,-8.14,69.44444444444444,True,32.17533490513384,Moderate Risk
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,Secret Factory,-9.73,69.44444444444444,True,32.668564014788906,Moderate Risk
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,The Other Factory,-11.74,69.44444444444444,True,30.49560226907556,High Risk
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,Lot's O' Nuts,-10.5,71.34670487106017,True,29.41913255555142,High Risk
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,Wicked Choccy's,-10.98,71.34670487106017,True,24.97616700774963,High Risk
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,Sugar Shack,-8.22,71.34670487106017,True,32.12733490513384,Moderate Risk
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,Secret Factory,-9.59,71.34670487106017,True,32.75256401478891,Moderate Risk
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,The Other Factory,-11.82,71.34670487106017,True,30.44760226907556,High Risk
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,Lot's O' Nuts,-12.54,65.33333333333333,True,22.49118805792434,High Risk
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,Wicked Choccy's,-12.05,65.33333333333333,True,30.92186028339766,High Risk
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,Sugar Shack,-10.25,65.33333333333333,True,23.620284852195503,High Risk
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,Secret Factory,-16.14,65.33333333333333,True,25.5484381737798,High Risk
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,The Other Factory,-14.1,65.33333333333333,True,31.54,High Risk
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,Lot's O' Nuts,-11.34,64.92307692307692,True,31.478430224573536,High Risk
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,Wicked Choccy's,-11.93,64.92307692307692,True,12.842,High Risk
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,Sugar Shack,-17.08,64.92307692307692,True,18.45161133455334,High Risk
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,Secret Factory,-11.93,64.92307692307692,True,19.67906156744817,High Risk
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,The Other Factory,-11.8,64.92307692307692,True,18.90477135038409,High Risk
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,Lot's O' Nuts,-11.93,65.33333333333333,True,14.366353323613875,High Risk
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,Wicked Choccy's,-11.44,65.33333333333333,True,30.960961860723145,High Risk
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,Sugar Shack,-9.64,65.33333333333333,True,25.0772542156163,Moderate Risk
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,Secret Factory,-11.93,65.33333333333333,True,27.95327197448136,High Risk
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,The Other Factory,-13.25,65.33333333333333,True,26.83904159633592,High Risk
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,Lot's O' Nuts,-13.02,71.34670487106017,True,22.203188057924343,High Risk
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,Wicked Choccy's,-12.53,71.34670487106017,True,30.63386028339766,High Risk
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,Sugar Shack,-10.73,71.34670487106017,True,23.332284852195503,High Risk
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,Secret Factory,-16.64,71.34670487106017,True,25.2484381737798,High Risk
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,The Other Factory,-15.26,71.34670487106017,True,30.844,High Risk
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,Lot's O' Nuts,-12.04,66.66666666666666,True,14.300353323613876,High Risk
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,Wicked Choccy's,-11.55,66.66666666666666,True,30.894961860723143,High Risk
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,Sugar Shack,-9.74,66.66666666666666,True,25.017254215616298,Moderate Risk
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,Secret Factory,-12.04,66.66666666666666,True,27.88727197448136,High Risk
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,The Other Factory,-13.38,66.66666666666666,True,26.76104159633592,High Risk
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,Lot's O' Nuts,-11.66,65.33333333333333,True,28.723132555551423,High Risk
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,Wicked Choccy's,-12.15,65.33333333333333,True,24.274167007749632,High Risk
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,Sugar Shack,-9.36,65.33333333333333,True,31.443334905133835,Moderate Risk
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,Secret Factory,-10.75,65.33333333333333,True,32.056564014788904,High Risk
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,The Other Factory,-13.0,65.33333333333333,True,29.73960226907556,High Risk
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,Lot's O' Nuts,-13.64,69.44444444444444,True,21.831188057924344,High Risk
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,Wicked Choccy's,-13.15,69.44444444444444,True,30.26186028339766,High Risk
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,Sugar Shack,-11.33,69.44444444444444,True,22.9722848521955,High Risk
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,Secret Factory,-17.28,69.44444444444444,True,24.8644381737798,High Risk
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,The Other Factory,-16.12,69.44444444444444,True,30.328,High Risk
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,Lot's O' Nuts,-12.31,66.66666666666666,True,30.896430224573532,High Risk
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,Wicked Choccy's,-12.85,66.66666666666666,True,12.29,High Risk
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,Sugar Shack,-18.05,66.66666666666666,True,17.86961133455334,High Risk
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,Secret Factory,-12.85,66.66666666666666,True,19.12706156744817,High Risk
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,The Other Factory,-12.73,66.66666666666666,True,18.346771350384092,High Risk
+Wonka Gum,Atlantic,Secret Factory,Lot's O' Nuts,-12.09,52.0,True,14.270353323613875,High Risk
+Wonka Gum,Atlantic,Secret Factory,Wicked Choccy's,-11.6,52.0,True,30.86496186072314,High Risk
+Wonka Gum,Atlantic,Secret Factory,Sugar Shack,-9.78,52.0,True,24.993254215616304,Moderate Risk
+Wonka Gum,Atlantic,Secret Factory,Secret Factory,-12.09,52.0,True,27.85727197448136,High Risk
+Wonka Gum,Atlantic,Secret Factory,The Other Factory,-13.57,52.0,True,26.64704159633592,High Risk
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,Lot's O' Nuts,-12.01,66.66666666666666,True,28.513132555551422,High Risk
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,Wicked Choccy's,-12.5,66.66666666666666,True,24.06416700774963,High Risk
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,Sugar Shack,-9.7,66.66666666666666,True,31.239334905133838,Moderate Risk
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,Secret Factory,-11.14,66.66666666666666,True,31.822564014788902,High Risk
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,The Other Factory,-13.37,66.66666666666666,True,29.51760226907556,High Risk
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,Lot's O' Nuts,-13.11,64.92307692307693,True,13.658353323613875,High Risk
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,Wicked Choccy's,-12.62,64.92307692307693,True,30.252961860723143,High Risk
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,Sugar Shack,-10.8,64.92307692307693,True,24.381254215616305,High Risk
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,Secret Factory,-13.11,64.92307692307693,True,27.24527197448136,High Risk
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,The Other Factory,-14.46,64.92307692307693,True,26.11304159633592,High Risk
+Lickable Wallpaper,Pacific,Secret Factory,Lot's O' Nuts,-14.24,50.0,True,29.73843022457353,High Risk
+Lickable Wallpaper,Pacific,Secret Factory,Wicked Choccy's,-13.77,50.0,True,11.738,High Risk
+Lickable Wallpaper,Pacific,Secret Factory,Sugar Shack,-19.22,50.0,True,17.167611334553342,High Risk
+Lickable Wallpaper,Pacific,Secret Factory,Secret Factory,-13.77,50.0,True,18.57506156744817,High Risk
+Lickable Wallpaper,Pacific,Secret Factory,The Other Factory,-13.64,50.0,True,17.800771350384096,High Risk
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,Lot's O' Nuts,-13.38,69.44444444444444,True,13.496353323613876,High Risk
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,Wicked Choccy's,-12.89,69.44444444444444,True,30.09096186072314,High Risk
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,Sugar Shack,-11.06,69.44444444444444,True,24.225254215616303,High Risk
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,Secret Factory,-13.38,69.44444444444444,True,27.08327197448136,High Risk
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,The Other Factory,-14.73,69.44444444444444,True,25.95104159633592,High Risk
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,Lot's O' Nuts,-14.52,66.66666666666666,True,21.30318805792434,High Risk
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,Wicked Choccy's,-14.03,66.66666666666666,True,29.73386028339766,High Risk
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,Sugar Shack,-12.2,66.66666666666666,True,22.4502848521955,High Risk
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,Secret Factory,-18.19,66.66666666666666,True,24.3184381737798,High Risk
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,The Other Factory,-16.85,66.66666666666666,True,29.89,High Risk
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,Lot's O' Nuts,-13.18,71.34670487106017,True,30.374430224573537,High Risk
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,Wicked Choccy's,-13.78,71.34670487106017,True,11.732,High Risk
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,Sugar Shack,-19.02,71.34670487106017,True,17.28761133455334,High Risk
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,Secret Factory,-13.78,71.34670487106017,True,18.56906156744817,High Risk
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,The Other Factory,-13.65,71.34670487106017,True,17.794771350384096,High Risk
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,Lot's O' Nuts,-15.9,64.92307692307692,True,20.475188057924345,High Risk
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,Wicked Choccy's,-15.4,64.92307692307692,True,28.911860283397655,High Risk
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,Sugar Shack,-13.55,64.92307692307692,True,21.6402848521955,High Risk
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,Secret Factory,-19.61,64.92307692307692,True,23.4664381737798,High Risk
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,The Other Factory,-18.2,64.92307692307692,True,29.08,High Risk
+Kazookles,Atlantic,The Other Factory,Lot's O' Nuts,-16.33,7.6923076923076925,True,11.726353323613878,High Risk
+Kazookles,Atlantic,The Other Factory,Wicked Choccy's,-15.83,7.6923076923076925,True,28.326961860723145,High Risk
+Kazookles,Atlantic,The Other Factory,Sugar Shack,-13.95,7.6923076923076925,True,22.4912542156163,High Risk
+Kazookles,Atlantic,The Other Factory,Secret Factory,-16.33,7.6923076923076925,True,25.31327197448136,High Risk
+Kazookles,Atlantic,The Other Factory,The Other Factory,-17.71,7.6923076923076925,True,24.163041596335923,High Risk

@@ -1,0 +1,25 @@
+Product Name,Region,Current Factory,Scenario Factory,Current Avg Lead Time,Predicted Lead Time,Lead Time Reduction %,Distance km,Profit Stability Score,Recommendation Score,Recommendation
+Lickable Wallpaper,Atlantic,Secret Factory,Wicked Choccy's,1387.8285714285714,1498.177226767998,-7.95,946.14,1,33.05496186072314,Keep Current Factory
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,Secret Factory,1331.9779559118238,1457.3826677780423,-9.41,845.39,1,32.860564014788906,Keep Current Factory
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,Wicked Choccy's,1360.426530612245,1474.595636384222,-8.39,946.14,1,32.790961860723144,Keep Current Factory
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,Secret Factory,1329.8473451327434,1457.3826677780423,-9.59,845.39,1,32.75256401478891,Keep Current Factory
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,Secret Factory,1329.9084967320262,1459.3475152198919,-9.73,845.39,1,32.668564014788906,Keep Current Factory
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,Secret Factory,1316.3348115299334,1457.7901273038678,-10.75,845.39,1,32.056564014788904,Keep Current Factory
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,Secret Factory,1311.570731707317,1457.6796451708137,-11.14,845.39,1,31.822564014788906,Keep Current Factory
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,Lot's O' Nuts,1332.1331360946745,1477.7873464470317,-10.93,878.52,1,31.724430224573535,Keep Current Factory
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,The Other Factory,1328.669696969697,1516.0009788949255,-14.1,624.64,1,31.54,Keep Current Factory
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,Lot's O' Nuts,1326.0240240240241,1476.4034960480953,-11.34,878.52,1,31.478430224573536,Keep Current Factory
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,Wicked Choccy's,1321.1715328467153,1473.783196380551,-11.55,946.14,1,30.894961860723143,Keep Current Factory
+Wonka Gum,Atlantic,Secret Factory,Wicked Choccy's,1312.7567567567567,1465.0696125565023,-11.6,946.14,1,30.86496186072314,Keep Current Factory
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,The Other Factory,1322.6148648648648,1524.4377527348722,-15.26,624.64,1,30.844,Keep Current Factory
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,The Other Factory,1314.5451612903225,1526.4026001767218,-16.12,624.64,1,30.328,Keep Current Factory
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,Wicked Choccy's,1305.370786516854,1473.608756387351,-12.89,946.14,1,30.09096186072314,Keep Current Factory
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,The Other Factory,1304.5807560137457,1524.3526853668095,-16.85,624.64,1,29.89,Keep Current Factory
+Lickable Wallpaper,Pacific,Secret Factory,Lot's O' Nuts,1305.5294117647059,1491.3842382070784,-14.24,878.52,1,29.738430224573534,Keep Current Factory
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,The Other Factory,1289.7327327327328,1524.4377527348722,-18.2,624.64,1,29.08,Keep Current Factory
+Kazookles,Atlantic,The Other Factory,Wicked Choccy's,1273.1081081081081,1474.595636384222,-15.83,946.14,1,28.326961860723145,Keep Current Factory
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,Secret Factory,1323.578853046595,1481.4282093673844,-11.93,1347.26,1,27.95327197448136,Keep Current Factory
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,Secret Factory,1309.320813771518,1481.0207498415589,-13.11,1347.26,1,27.24527197448136,Keep Current Factory
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,Secret Factory,1331.282738095238,1484.9004194426543,-11.54,2570.3,1,19.913061567448167,Keep Current Factory
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,Secret Factory,1314.4340949033392,1483.3431845417351,-12.85,2570.3,1,19.12706156744817,Keep Current Factory
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,Secret Factory,1304.4458041958042,1484.155624545406,-13.78,2570.3,1,18.56906156744817,Keep Current Factory
